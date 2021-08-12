@@ -1,0 +1,27 @@
+﻿  Customer.cpp
+C:\Users\dell\Desktop\market-2\market\market\product.h(11,7): warning C4215: nonstandard extension used: long float
+C:\Users\dell\Desktop\market-2\market\market\Receipt.h(9,7): warning C4215: nonstandard extension used: long float
+C:\Users\dell\Desktop\market-2\market\market\Receipt.h(10,7): warning C4215: nonstandard extension used: long float
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(18,6): warning C4101: 'num': unreferenced local variable
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(77,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(87,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(92,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(97,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(102,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(120,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(152,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(169,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(184,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(201,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(217,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Customer.cpp(236,25): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\dell\Desktop\market-2\market\market\product.h(11,7): warning C4215: nonstandard extension used: long float
+C:\Users\dell\Desktop\market-2\market\market\Receipt.h(9,7): warning C4215: nonstandard extension used: long float
+C:\Users\dell\Desktop\market-2\market\market\Receipt.h(10,7): warning C4215: nonstandard extension used: long float
+C:\Users\dell\Desktop\market-2\market\market\Source.cpp(15,10): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\dell\Desktop\market-2\market\market\Source.cpp(84,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\market-2\market\market\Source.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  market.vcxproj -> C:\Users\dell\Desktop\market-2\market\Debug\market.exe
